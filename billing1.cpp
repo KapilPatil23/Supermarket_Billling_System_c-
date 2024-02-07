@@ -49,7 +49,7 @@ class shopping{
             cout<<"\n\t\t\t Enter password ";
             cin>>password;
 
-            if(email=="kunal@gmail.com" && password=="kunal@123"){
+            if(email=="kapil34patil@gmail.com" && password=="kapil@123"){
                 administrator();
             }
             else{
